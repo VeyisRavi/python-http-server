@@ -1,0 +1,6 @@
+domains:
+- python-http-server-VeyisRavi.wasmer.app
+kind: wasmer.io/App.v0
+name: veyisravi-python-http-server
+owner: veyisravi
+package: .
